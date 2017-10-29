@@ -15,5 +15,11 @@
     "net"
   ],
   "author": "Daniel Andrade",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "console-log-hello-world": "^1.0.3"
+  },
+  "devDependencies": {
+    "console-log-hello-world": "^1.0.3"
+  }
 }
